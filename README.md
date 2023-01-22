@@ -1,4 +1,4 @@
-# Sorting  in  C
+# Sorting  in  C Language
 
 This repository contains the source code of Sorting in C.
 
