@@ -1,6 +1,6 @@
-# Sorting  in  C Language
+# Sorting Alogorithm in  C Language
 
-This repository contains the source code of Sorting in C.
+This repository contains the source code of Sorting alogorithm in C Language.
 
 1.  Bubble Sort.
 2.  Seletion Sort.
