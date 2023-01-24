@@ -1,4 +1,4 @@
-# Sorting Alogorithm in  C Language
+# Sorting Alogorithms in  C Language
 
 This repository contains the source code of Sorting alogorithm in C Language.
 
